@@ -1,0 +1,10 @@
+{
+  "name": "k3-studios-clone",
+  "version": "1.0.0",
+  "description": "Premium clone of K3 Studios Dubai digital agency website.",
+  "scripts": {
+    "dev": "npx -y http-server -p 3000"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
